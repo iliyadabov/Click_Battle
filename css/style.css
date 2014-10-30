@@ -1,0 +1,54 @@
+.jumbotron {
+
+    margin-top: 15px;
+}
+
+.container {
+    background-color: lightseagreen;
+}
+
+h1, h2{
+    text-align: center;
+    font-style: italic;
+
+
+}
+
+h3 , h4{
+    text-align: center;
+    font-style: italic;
+
+    color: red;
+}
+
+.button {
+    margin: 0 auto;
+}
+
+input, label {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+.row {
+    margin: 1%;
+}
+
+#level {
+    text-align: center;
+}
+
+#time {
+    text-align: center;
+
+}
+
+#timer{
+    padding: 5px;
+}
+
+.col-centered{
+    margin: 0 auto;
+    float: none;
+}
